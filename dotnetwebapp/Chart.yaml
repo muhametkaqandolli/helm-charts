@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for a argocd app
+name: dotnetwebapp
+version: "1.0"
