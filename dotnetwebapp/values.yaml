@@ -3,7 +3,7 @@
 replicaCount: 2
 image:
   repository: memikaqandolli/dotnet-webapp
-  tag: latest
+  tag: a2d5220bc0440c28e4018394c95347fc9bd77289
   # pullSecret: regsecret
   pullPolicy: Always
   # for local development against Minikube registry
